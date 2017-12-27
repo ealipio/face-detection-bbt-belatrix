@@ -6,3 +6,6 @@ This is the repo that contains the code example form my BBT at Belatrix offices 
 * $ python fromPicture.py yourPicture.jpg haarcascade_frontalface_default.xml
 ### detect from Webcam: 
 * $ python fromWebcam.py haarcascade_frontalface_default.xml
+
+
+![](http://weknowmemes.com/wp-content/uploads/2012/02/nikon-face-detection.jpg)
